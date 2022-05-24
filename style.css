@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+#products{
+  border-style: dashed;
+  border-color: black;
+}
+
+.product{
+  background-color: chocolate;
+  color: aquamarine;
+  text-shadow: 20px, 20px, burlywood;
+}
